@@ -11,7 +11,7 @@ This spreadsheet calculates the PCB transmission line insertion loss versus freq
 
 ![image](https://github.com/user-attachments/assets/a4ff7e3b-5cc5-4ef5-b7b7-f624a6e8245b)
 
-3- The tool will calculate the DK of the resin and the glass separately, then it will use them to calculate the in-plane effective dielectric constant and the out-of-plane value for the chosen dielectric thickness. These are the values that should be fed into field simulators. Calculation steps are detailed in the linked reference (PCB Laminate Anisotropy: The Impact on Advanced Via Modeling - https://www.signalintegrityjournal.com/articles/3422-pcb-laminate-anisotropy-the-impact-on-advanced-via-modeling)					
+3- The tool will calculate the DK of the resin and the glass separately, then it will use them to calculate the in-plane effective dielectric constant and the out-of-plane value for the chosen dielectric thickness. These are the values that should be fed into field simulators. Calculation steps are detailed in the linked article (Signal Integrity Analysis Methodology for PCBs https://www.teramesh.tech/Resources/Knowledge-Base/Signal-Integrity-Analysis-Methodology-for-Printed-Circuit-Boards )					
 
 ![image](https://github.com/user-attachments/assets/84787e3b-f191-4004-af9a-e67df1a4f00a)
 
