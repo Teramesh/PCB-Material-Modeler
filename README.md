@@ -15,7 +15,7 @@ This spreadsheet calculates the PCB transmission line insertion loss versus freq
 
 ![image](https://github.com/user-attachments/assets/84787e3b-f191-4004-af9a-e67df1a4f00a)
 
-4- The tool also calculate the stripline loss components (Dielectric loss, smooth metal, and loss due to roughness). Calculation steps are shown as comments on each cell.
+4- The tool also calculates the stripline loss components (Dielectric loss, smooth metal, and loss due to roughness). Calculation equations are shown in the comments of each relevant cell.
     
 ![image](https://github.com/user-attachments/assets/37f45365-1161-4593-8bf9-89a0078f30f1)
 
