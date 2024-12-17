@@ -1,5 +1,5 @@
 # PCB-Material-Modeler
-This spreadsheet calculates the PCB transmission line insertion loss versus frequency and temperature curves from the datasheet values of the dielectric constant and loss tangent, in addition to copper foil roughness parameters.
+Teramesh's [PCB Material Modeler spreadsheet](https://github.com/Teramesh/PCB-Material-Modeler/blob/main/PCB_Material_Modeler.xlsx) calculates the PCB transmission line insertion loss versus frequency and temperature curves from the datasheet values of the dielectric constant and loss tangent, in addition to copper foil roughness parameters.
 
 **User Guide**
 
