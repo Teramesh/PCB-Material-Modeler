@@ -4,12 +4,11 @@ Teramesh's [PCB Material Modeler spreadsheet](https://github.com/Teramesh/PCB-Ma
 **User Guide**
 
 1- Input the stripline dimensions, PCB process constants, and temperature coefficients.
+![image](https://github.com/user-attachments/assets/62f48d15-8c74-47b9-9c84-e5f39099ea7e)
 
-![image](https://github.com/user-attachments/assets/88ebbb7f-f7b8-4cb0-b2f4-07aa9bbcc074)
+2- The dielectric constant (DK) in-plane values versus frequency (GHz) for different thicknesses/resin contents. In-plane values are those that were characterized by SPC or Cylindrical resonator. When Dk is measured by an in-plane method (SPC or Cylindrical Resonator), effective Dk is linear to resin content for a given glass style. Then enter DF value as well, the DF value should be almost independent from the dielectric thickness.	
 
-2- Input the dielectric constant (DK) in-plane values versus frequency (GHz) for different thicknesses/resin contents. In-plane values are those that were characterized by SPC or Cylindrical resonator. When Dk is measured by an in-plane method (SPC or Cylindrical Resonator), effective Dk is linear to resin content for a given glass style. Then enter DF value as well, the DF value should be almost independent from the dielectric thickness.	
-
-![image](https://github.com/user-attachments/assets/a4ff7e3b-5cc5-4ef5-b7b7-f624a6e8245b)
+![image](https://github.com/user-attachments/assets/1d5028db-a594-4429-a74d-a278e3871e4d)
 
 3- The tool will calculate the DK of the resin and the glass separately, then it will use them to calculate the in-plane effective dielectric constant and the out-of-plane value for the chosen dielectric thickness. These are the values that should be fed into field simulators. Calculation steps are detailed in the linked article [Signal Integrity Analysis Methodology for Printed Circuit Boards](https://www.teramesh.tech/Resources/Knowledge-Base/Signal-Integrity-Analysis-Methodology-for-Printed-Circuit-Boards).
 
