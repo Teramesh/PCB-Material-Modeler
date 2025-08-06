@@ -1,4 +1,3 @@
-# PCB-Material-Modeler
 Teramesh's [PCB Material Modeler spreadsheet](https://github.com/Teramesh/PCB-Material-Modeler/blob/main/PCB_Material_Modeler.xlsx) calculates the PCB transmission line insertion loss versus frequency and temperature curves from the datasheet values of the dielectric constant and loss tangent, in addition to copper foil roughness parameters.
 
 **User Guide**
@@ -37,4 +36,4 @@ These are the 4 temperature points at which DK and Df were plotted in the charts
 
 7- Input stripline geometric parameters in the Transmission Line Design tab, along with their manufacturing tolerances. Transmission line impedance, attenuation, and RLGC parameters are calculated for the odd and even modes, with statistical variances (from manufacturing tolerances). Numerical accuracy can be improved by utilizing 2D field solver results for the grey-highlighted cells. The user can also change the temperature at which the parameters are being calculated.
 
-<img width="883" height="1343" alt="image" src="https://github.com/user-attachments/assets/7086db76-e691-4a29-b4cd-4a5ccfc32c61" />
+<img width="883" height="1344" alt="image" src="https://github.com/user-attachments/assets/b9d853d5-0cfa-4bfb-9eda-871e1d30140c" />
