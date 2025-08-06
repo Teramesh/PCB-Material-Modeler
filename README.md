@@ -3,7 +3,7 @@ Teramesh's [PCB Material Modeler spreadsheet](https://github.com/Teramesh/PCB-Ma
 
 **User Guide**
 
-1- Input the stripline dimensions, PCB process constants, and temperature coefficients.
+1- Input the stripline dimensions, PCB process constants, and temperature coefficients in the **Material Database** tab, then select the material and desired copper foil process, and observe the values being read in the **Material Modeler** tab.
 
 <img width="1107" height="105" alt="image" src="https://github.com/user-attachments/assets/16ca43e6-04d5-4501-ba16-fd841698c3c3" />
 
